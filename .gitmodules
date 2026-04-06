@@ -1,0 +1,3 @@
+[submodule "vendor/nuxt"]
+	path = vendor/nuxt
+	url = git@github.com:01-mu/nuxt.git
